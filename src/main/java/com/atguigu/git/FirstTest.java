@@ -10,5 +10,6 @@ public class FirstTest {
         System.out.println("z y d");
         System.out.println("dsb");
         System.out.println("push test");
+        System.out.println("pull test")
     }
 }
