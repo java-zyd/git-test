@@ -8,8 +8,7 @@ public class FirstTest {
         System.out.println("hello git4");
         System.out.println("hello git5");
         System.out.println("z y d");
-        System.out.println("zui shuai");
-        System.out.println("haha");
+        System.out.println("d s b");
         System.out.println("push test");
         System.out.println("pull test");
     }
